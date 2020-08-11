@@ -6,4 +6,18 @@
   margin-right: 20px;
 }
 
+.container {
+  border: 1px solid midnightblue;
+}
 
+.aboutme {
+  background-color: lightpink;
+}
+
+.resume {
+  background-color: bisque;
+}
+
+.skills {
+  background-color: skyblue;
+}
