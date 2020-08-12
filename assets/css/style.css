@@ -10,14 +10,15 @@
   border: 1px solid midnightblue;
 }
 
-.aboutme {
+.aboutme .container {
   background-color: lightpink;
 }
 
-.resume {
+.resume .container {
   background-color: bisque;
+  text-align: center;
 }
 
-.skills {
+.skills .container {
   background-color: skyblue;
 }
