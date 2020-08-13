@@ -1,0 +1,4 @@
+// michaelmccosh.com 
+$(function() {
+  
+});
