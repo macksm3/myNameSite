@@ -19,7 +19,8 @@ body {
 }
 
 .container {
-  border: 1px solid midnightblue;
+  margin-top: 40px;
+  border: 2px solid midnightblue;
 }
 
 .aboutme .container {
@@ -28,6 +29,12 @@ body {
 
 .skills .container {
   background-color: skyblue;
+}
+
+hr {
+  border-style: solid;
+  border-width: 1px;
+  border-color: midnightblue;
 }
 
 .navbar-brand {
