@@ -6,8 +6,8 @@ repo on Github at  https://github.com/macksm3/myNameSite
 Created with HTML and CSS with bootstrap framework and fontawesome icons.
 Website for self promotion
 
-![image](assets/AboutMeScreenShot "basic layout")
-![image](assets/UpdatedPortfolioScreenShot "basic layout")
+![image](./assets/AboutMeScreenShot.png "basic layout")
+![image](./assets/UpdatedPortfolioScreenShot.png "basic layout")
 
 
 MIT License
